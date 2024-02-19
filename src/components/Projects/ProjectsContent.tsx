@@ -42,7 +42,7 @@ const ProjectsContent: React.FC = () => {
       <div className="relative md:w-[590px] w-[315px]">
         <img
           src={aboutShape}
-          alt="about shape vickyadrii"
+          alt="about shape TrevorX"
           className="absolute -z-10 bottom-2 xl:w-auto md:w-56 w-48"
         />
         <h2 className="md:text-[56px] text-[30px] md:text-left font-bold text-primary">
@@ -50,7 +50,7 @@ const ProjectsContent: React.FC = () => {
         </h2>
         <img
           src={burstBloadTwo}
-          alt="projects shape vickyadrii"
+          alt="projects shape TrevorX"
           className="absolute -z-10 top-0 -right-1 md:w-12 w-6"
         />
       </div>
