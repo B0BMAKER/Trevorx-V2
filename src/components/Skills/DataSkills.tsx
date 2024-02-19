@@ -62,7 +62,7 @@ const DataSkills = () => {
               <img
                 src={data}
                 //   key={index}
-                alt="logo skills aris ganteng"
+                alt="logo skills Lu Bau"
                 className={`${
                   index === 0 || index === 6
                     ? "md:w-[90px] w-[80px]"
