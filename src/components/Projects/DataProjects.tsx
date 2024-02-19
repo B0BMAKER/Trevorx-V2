@@ -77,7 +77,7 @@ const DataProjects: React.FC = () => {
                   <img
                     key={index}
                     src={data}
-                    alt="tech stack logo vickyadrii"
+                    alt="tech stack logo TrevorX"
                     className="md:w-[26px] w-5 object-contain aspect-[4/3]"
                   />
                 ))}
