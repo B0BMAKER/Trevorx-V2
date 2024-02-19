@@ -38,7 +38,7 @@ const AboutImage: React.FC = () => {
     >
       <img
         src={aboutImage}
-        alt="about image vickyadrii"
+        alt="about image TrevorX"
         className="xl:w-auto md:w-9/12 w-9/12"
       />
     </motion.div>
