@@ -85,7 +85,7 @@ export const dataLogoSocialMedia: LogoSocialMedia[] = [
   {
     id: 3,
     logo: email,
-    navigate: "mailto: arislonti123@gmail.com",
+    navigate: "mailto: trevorx876@gmail.com",
   },
 ];
 
