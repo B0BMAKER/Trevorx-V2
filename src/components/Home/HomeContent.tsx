@@ -41,7 +41,7 @@ const HomeContent = () => {
         className="flex flex-col items-center"
       >
         <h2 className="text-primary font-extrabold xl:text-5xl md:text-4xl text-xl">
-          Vicky Herdiansyah Adri.
+          Aris Rahmadani & Aisah.
         </h2>
         <div className="relative -z-10">
           <img
